@@ -1,0 +1,12 @@
+C:\Users\Dev\Documents\GitHub\dkl-linux-fixes\LinuxFixes\LinuxFixes\bin\Debug\net5.0\LinuxFixes.deps.json
+C:\Users\Dev\Documents\GitHub\dkl-linux-fixes\LinuxFixes\LinuxFixes\bin\Debug\net5.0\LinuxFixes.dll
+C:\Users\Dev\Documents\GitHub\dkl-linux-fixes\LinuxFixes\LinuxFixes\bin\Debug\net5.0\ref\LinuxFixes.dll
+C:\Users\Dev\Documents\GitHub\dkl-linux-fixes\LinuxFixes\LinuxFixes\bin\Debug\net5.0\LinuxFixes.pdb
+C:\Users\Dev\Documents\GitHub\dkl-linux-fixes\LinuxFixes\LinuxFixes\obj\Debug\net5.0\LinuxFixes.csproj.AssemblyReference.cache
+C:\Users\Dev\Documents\GitHub\dkl-linux-fixes\LinuxFixes\LinuxFixes\obj\Debug\net5.0\LinuxFixes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Documents\GitHub\dkl-linux-fixes\LinuxFixes\LinuxFixes\obj\Debug\net5.0\LinuxFixes.AssemblyInfoInputs.cache
+C:\Users\Dev\Documents\GitHub\dkl-linux-fixes\LinuxFixes\LinuxFixes\obj\Debug\net5.0\LinuxFixes.AssemblyInfo.cs
+C:\Users\Dev\Documents\GitHub\dkl-linux-fixes\LinuxFixes\LinuxFixes\obj\Debug\net5.0\LinuxFixes.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Documents\GitHub\dkl-linux-fixes\LinuxFixes\LinuxFixes\obj\Debug\net5.0\LinuxFixes.dll
+C:\Users\Dev\Documents\GitHub\dkl-linux-fixes\LinuxFixes\LinuxFixes\obj\Debug\net5.0\ref\LinuxFixes.dll
+C:\Users\Dev\Documents\GitHub\dkl-linux-fixes\LinuxFixes\LinuxFixes\obj\Debug\net5.0\LinuxFixes.pdb
