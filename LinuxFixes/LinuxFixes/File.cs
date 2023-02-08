@@ -23,5 +23,18 @@ namespace LinuxFixes
                 fs.Close();
             }
         }
+        public static void WriteBytesAll(string filename, byte[] content)
+        {
+            if (System.IO.File.Exists(filename))
+                System.IO.File.Delete(filename);
+
+            using (FileStream fs = new FileStream(
+                filename, FileMode.CreateNew,
+                FileAccess.Write, FileShare.None))
+            {
+                fs.Write(content,0,content.Length);
+                fs.Close();
+            }
+        }
     }
 }

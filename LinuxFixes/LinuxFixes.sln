@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinuxFixes", "LinuxFixes\LinuxFixes.csproj", "{55B9538D-64A8-4B20-8326-A840A2686C69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinuxFixes", "LinuxFixes\LinuxFixes.csproj", "{55B9538D-64A8-4B20-8326-A840A2686C69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testlinux_fixes", "testlinux_fixes\testlinux_fixes.csproj", "{B7AFB06E-FE8F-42DC-A16F-94B6118099B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{55B9538D-64A8-4B20-8326-A840A2686C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55B9538D-64A8-4B20-8326-A840A2686C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55B9538D-64A8-4B20-8326-A840A2686C69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7AFB06E-FE8F-42DC-A16F-94B6118099B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7AFB06E-FE8F-42DC-A16F-94B6118099B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7AFB06E-FE8F-42DC-A16F-94B6118099B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7AFB06E-FE8F-42DC-A16F-94B6118099B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
