@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>devkron.serialize.csv</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CsvHelper">
+      <HintPath>ref\CsvHelper.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
