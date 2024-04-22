@@ -3,11 +3,16 @@ using System;
 using System.Globalization;
 using System.IO;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace devkron.serialize.csv
 {
     public class csvHelper
     {
+        public static void RemoveFirstLines(string filename, int nlines)
+        {
+            File.WriteAllLines(filename, File.ReadAllLines(filename).Skip(nlines).ToArray());
+        }
         public static void CsvWrite(string file, object data)
         {
             List<dynamic> l = new List<dynamic>();
